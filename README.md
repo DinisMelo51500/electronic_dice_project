@@ -1,2 +1,3 @@
-# electronic_dice_project
-...
+Authors:
+- Dinis Melo
+- Bernardo Lopes
